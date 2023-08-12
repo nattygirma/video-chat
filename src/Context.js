@@ -5,7 +5,7 @@ import Peer from 'simple-peer';
 const SocketContext = createContext();
 
 // const socket = io('http://localhost:5000');
-const socket = io('https://9407-122-187-109-194.ngrok-free.app', {
+const socket = io('https://79ff-223-237-235-159.ngrok-free.app', {
   extraHeaders: {
     'ngrok-skip-browser-warning': '69420',
   },
